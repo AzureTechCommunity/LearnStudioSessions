@@ -1,4 +1,4 @@
-## Create an interactive bot for Microsoft Teams
+## Create interactive bots for Microsoft Teams
 
 
 ### Pre-Reqs
