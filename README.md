@@ -1,12 +1,16 @@
 ## Welcome to Learn Studio Sessions 
 
 
-## Contents
+## Session info and pre-reqs
 * [Create interactive bots in Microsoft Teams](https://azuretechcommunity.github.io/LearnStudioSessions/Microsoft-Teams-Bot/)
 * Publish web app to Azure with Visual Studio
 * Build a WebAssembly App with Blazor & Visual Studio Code
 * Create a website in Azure
 * Build your OWN Power App Component
+
+## FAQ
+
+* Will these sessions be available online after Build? - -	Yes! They should be online within the next week at https://mybuild.microsoft.com/
 
 
 ### Contributing
