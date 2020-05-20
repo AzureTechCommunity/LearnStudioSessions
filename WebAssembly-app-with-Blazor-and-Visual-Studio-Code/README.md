@@ -19,5 +19,5 @@
   * [Blazor Pizza Store workshop](https://github.com/dotnet-presentations/blazor-workshop/) 
   * [Rock Paper Scissors Lizard Spock (#RPSLS) Learn Collection](https://aka.ms/rpsls-collection)
 * [Blazor Homepage](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor?ocid=AID3012652&WT.mc_id=Build2020_studiosession)
-* Need help? Visit the [.NET community](https://dotnet.microsoft.com/platform/community&WT.mc_id=Build2020_studiosession)
+* Need help? Visit the [.NET community](https://dotnet.microsoft.com/platform/community?ocid=AID3012652&WT.mc_id=Build2020_studiosession)
 

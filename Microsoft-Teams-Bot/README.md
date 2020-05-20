@@ -1,10 +1,11 @@
 ## Create interactive bots for Microsoft Teams
 
 ### Pre-Reqs
+* [Microsoft Learn Profile](https://aka.ms/Build20/Learn)
 * [Node.js](https://nodejs.org/) - v10.* (or higher)
 * NPM (installed with Node.js)
 * [ngrok](https://ngrok.com/)  
-* [Visual Studio Code](https://code.visualstudio.com/)
+* [Visual Studio Code](https://code.visualstudio.com?ocid=AID3012652&WT.mc_id=Build2020_studiosession)
 
 ### Learn module
 * [Create interactive conversational bots for Microsoft Teams](https://aka.ms/Learn/TeamsBots)
@@ -16,9 +17,9 @@
 
 ### Additional Resources
 * Microsoft Learn - 
-  * [Extend Microsoft Teams](https://docs.microsoft.com/learn/paths/m365-msteams-associate)
+  * [Extend Microsoft Teams](https://docs.microsoft.com/learn/paths/m365-msteams-associate?ocid=AID3012652&WT.mc_id=Build2020_studiosession)
 * Microsoft Docs - 
   * [How bots work](https://aka.ms/docs/how-bots-work)
 * Sample Code -
   * [Node.js](https://github.com/OfficeDev/microsoft-teams-sample-complete-node)
-* [Microsoft Teams community hub](https://aka.ms/MTC/MicrosoftTeams)
+* Need help? Visit the [Microsoft Teams community hub](https://aka.ms/MTC/MicrosoftTeams?ocid=AID3012652&WT.mc_id=Build2020_studiosession)

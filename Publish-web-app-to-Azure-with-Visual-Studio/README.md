@@ -1,4 +1,4 @@
-## Publish web app to Azure with Visual Studio
+## Publish a web app to Azure with Visual Studio
 
 ### Pre-Reqs
 * [Microsoft Learn Profile](https://aka.ms/Build20/Learn)
@@ -22,5 +22,5 @@
   * [Create a Node.js web app in Azure](https://docs.microsoft.com/azure/app-service/app-service-web-get-started-nodejs?ocid=AID3012652&WT.mc_id=Build2020_studiosession)
   * [Create a Java app on Azure App Service on Windows](https://docs.microsoft.com/azure/app-service/app-service-web-get-started-java?ocid=AID3012652&WT.mc_id=Build2020_studiosession)
   * [Create a static HTML web app in Azure](https://docs.microsoft.com/azure/app-service/app-service-web-get-started-html?ocid=AID3012652&WT.mc_id=Build2020_studiosession)
-* Need help? Visit the [Azure community hub](https://aka.ms/MTC/azure)
+* Need help? Visit the [Azure community hub](https://aka.ms/MTC/azure?ocid=AID3012652&WT.mc_id=Build2020_studiosession)
 
