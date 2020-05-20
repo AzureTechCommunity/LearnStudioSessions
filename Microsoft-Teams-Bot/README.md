@@ -1,19 +1,19 @@
-# Create an interactive bot for Microsoft Teams
+## Create an interactive bot for Microsoft Teams
 
 
-## Pre-Reqs
+### Pre-Reqs
 * [Node.js - v10.* (or higher)]( https://nodejs.org/) 
 * NPM (installed with Node.js)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [ngrok](https://ngrok.com/)  
 
 
-## Helpful Tools
+### Helpful Tools
 * [Gulp](https://gulpjs.com/) - v4.x or higher
 * [Yeoman](https://yeoman.io/) - v3.x or higher
 * [Yeoman Generator for Microsoft Teams](https://github.com/OfficeDev/generator-teams) - v2.x or higher
 
-## Learning Resources
+### Learning Resources
 * Microsoft Learn module - [Create interactive conversational bots for Microsoft Teams](https://aka.ms/Learn/TeamsBots)
 * Microsoft Learn - [Extend Microsoft Teams](https://docs.microsoft.com/learn/paths/m365-msteams-associate)
 * Microsoft Docs - [How bots work](https://aka.ms/docs/how-bots-work)
