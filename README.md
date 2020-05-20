@@ -4,7 +4,7 @@
 ### Session info and pre-reqs
 * [Create interactive bots in Microsoft Teams](https://azuretechcommunity.github.io/LearnStudioSessions/Microsoft-Teams-Bot/)
 * Publish web app to Azure with Visual Studio
-* Build a WebAssembly App with Blazor & Visual Studio Code
+* [Build a WebAssembly App with Blazor & Visual Studio Code](https://azuretechcommunity.github.io/LearnStudioSessions/WebAssembly-app-with-Blazor-and-Visual-Studio-Code)
 * [Create a website in Azure](https://azuretechcommunity.github.io/LearnStudioSessions/Create-a-website-in-Azure)
 * Build your OWN Power App Component
 
