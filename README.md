@@ -2,12 +2,14 @@
 
 
 ## Contents
-* [Create interactive bots in Microsoft Teams](https://github.com/AzureTechCommunity/LearnStudioSessions/tree/master/Microsoft-Teams-Bot)
+* [Create interactive bots in Microsoft Teams](https://azuretechcommunity.github.io/LearnStudioSessions/Microsoft-Teams-Bot/)
+* Publish web app to Azure with Visual Studio
 * Build a WebAssembly App with Blazor & Visual Studio Code
 * Create a website in Azure
 * Build your OWN Power App Component
 
-# Contributing
+
+### Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
