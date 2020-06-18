@@ -1,6 +1,6 @@
 # Welcome to Microsoft Learn Studio Sessions 
 
-## Watch on-demand sessions
+## Watch on-demand sessions from Microsoft Build
 [Microsoft Build: Learn Studio Sessions on-demand sessions](https://aka.ms/atc/Build_Learn_Studio_Sessions) 
 
 ## Session info and pre-reqs
