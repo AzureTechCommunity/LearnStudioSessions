@@ -1,6 +1,12 @@
-## Build your OWN Power App Component
+# Build your OWN Power App Component
 
-### Pre-Reqs
+## Watch on-demand session
+* [Build your OWN Power App Component](https://mybuild.microsoft.com/sessions/9d8d62ba-d6c1-4e07-8609-e02d8b1c0b49?source=sessions)
+
+## Microsoft Learn module
+* [Build a Power Apps component](https://aka.ms/Learn/PowerAppComponent)
+
+## Pre-Reqs
 * [.NET Framework 4.6.2 Developer Pack](https://dotnet.microsoft.com/download/dotnet-framework/net462?ocid=AID3012652&WT.mc_id=Build2020_studiosession)
 * [Power Apps CLI](https://aka.ms/PowerAppsCLI/)
 * [Visual Studio Code](https://code.visualstudio.com/Download?ocid=AID3012652&WT.mc_id=Build2020_studiosession) OR [Visual Studio 2017 or higher](https://visualstudio.microsoft.com/vs/community?ocid=AID3012652&WT.mc_id=Build2020_studiosession)
@@ -9,10 +15,7 @@
 * Windows OS
 * Optional: A work or school account to sign up for PowerApps and register the component after the session.
 
-### Learn module
-* [Build a Power Apps component](https://aka.ms/Learn/PowerAppComponent)
-
-### Additonal Resources
+## Additonal Resources
 * Microsoft Learn - 
   * [Create components with Power Apps Component Framework](https://docs.microsoft.com/en-us/learn/paths/use-power-apps-component-framework/)
   * [Use advanced features with Power Apps component framework](https://docs.microsoft.com/en-us/learn/modules/component-framework-advanced-topics?ocid=AID3012652&WT.mc_id=Build2020_studiosession)

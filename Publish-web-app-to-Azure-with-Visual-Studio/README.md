@@ -1,6 +1,12 @@
-## Publish a web app to Azure with Visual Studio
+# Publish a web app to Azure with Visual Studio
 
-### Pre-Reqs
+## Watch on-demand session
+* [Publish a web app to Azure with Visual Studio](https://mybuild.microsoft.com/sessions/eb9ca3f0-3c29-4f98-8637-14073f119bf7?source=sessions)
+
+## Microsoft Learn module
+* [Publish a web app to Azure with Visual Studio](https://aka.ms/Learn/PublishWebApp)
+
+## Pre-Reqs
 * [Microsoft Learn Profile](https://aka.ms/Build20/Learn)
 * Knowledge of the Azure cloud environment
 * Familiarity with web app concepts
@@ -8,11 +14,7 @@
 * Basic HTML knowledge
 * [Visual Studio IDE](https://visualstudio.microsoft.com/vs/community?ocid=AID3012652&WT.mc_id=Build2020_studiosession) - 16.6 (or later) on Windows
 
-
-### Learn module
-* [Publish a web app to Azure with Visual Studio](https://aka.ms/Learn/PublishWebApp)
-
-### Additonal Resources
+## Additonal Resources
 * Microsoft Learn - 
   * [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/learn/paths/deploy-a-website-with-azure-app-service?ocid=AID3012652&WT.mc_id=Build2020_studiosession)
   * [Rock Paper Scissors Lizard Spock (#RPSLS) Learn Collection](https://aka.ms/rpsls-collection)

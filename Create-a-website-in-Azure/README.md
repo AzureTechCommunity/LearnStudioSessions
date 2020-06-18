@@ -1,14 +1,15 @@
-## Create a website in Azure
+# Create a website in Azure
 
-### Pre-Reqs
-* [Microsoft Learn Profile](https://aka.ms/Build20/Learn)
+## Watch on-demand session
+* [Create a website in Azure](https://mybuild.microsoft.com/sessions/01ad7758-c9f0-400c-ad77-cb3453dcbb4f?source=sessions)
 
-### Learn module
+## Microsoft Learn module
 * [Core Cloud Services - Intro to Azure](https://aka.ms/Learn/IntroAzure)
 
+## Pre-Reqs
+* [Microsoft Learn Profile](https://aka.ms/Build20/Learn)
 
-### Additonal Resources
-
+## Additonal Resources
 * Microsoft Learn - 
   * [Azure Fundamentals Learning path ](https://aka.ms/Learn/Azure/Fun)
   * [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/learn/paths/deploy-a-website-with-azure-app-service/)

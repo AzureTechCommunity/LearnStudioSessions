@@ -1,15 +1,18 @@
-## Build a WebAssembly App with Blazor & Visual Studio Code
+# Build a WebAssembly App with Blazor & Visual Studio Code
 
-### Pre-Reqs
+## Watch on-demand session
+* [Build a WebAssembly App with Blazor & Visual Studio Code](https://mybuild.microsoft.com/sessions/ffd09048-9a5c-4342-9400-42c2a85bfeae?source=sessions)
+
+## Microsoft Learn module
+* [Build a web app with Blazor WebAssembly and VS Code](https://aka.ms/Learn/Blazor)
+
+## Pre-Reqs
 * [Microsoft Learn Profile](https://aka.ms/Build20/Learn)
 * C# .NET experience at a beginner level
 * Familiarity with ASP.NET
 * Experience with Visual Studio Code
 
-### Learn module
-* [Build a web app with Blazor WebAssembly and VS Code](https://aka.ms/Learn/Blazor)
-
-### Additonal Resources
+## Additonal Resources
 * Microsoft Docs - 
   * [Introduction to ASP.NET Core Blazor](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-3.1?ocid=AID3012652&WT.mc_id=Build2020_studiosession)
   * [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/blazor/webassembly?view=aspnetcore-3.1?ocid=AID3012652&WT.mc_id=Build2020_studiosession)
