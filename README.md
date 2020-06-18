@@ -1,5 +1,7 @@
 # Welcome to Microsoft Learn Studio Sessions 
 
+![Microsoft Learn](/images/Learn_logo.png)
+
 ## Watch on-demand sessions from Microsoft Build
 [Microsoft Build: Learn Studio Sessions on-demand sessions](https://aka.ms/atc/Build_Learn_Studio_Sessions) 
 
